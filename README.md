@@ -1,6 +1,9 @@
-# forest-landing
+## 🛠 Work in progress
+### "Forest" landing page using VueJs and Js library like Greensock and more.
 
-## Project setup
+
+
+## To try the project:
 ```
 npm install
 ```
