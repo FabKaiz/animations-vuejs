@@ -6,7 +6,6 @@
       <fa :icon="['fas', 'carrot']" />
       <fa :icon="['fab', 'youtube']" />
     </div>
-    <h2>tertr</h2>
   </div>
 </template>
 
@@ -20,8 +19,8 @@
 .container {
   width: 100%;
   height: 100vh;
-  // background-image: linear-gradient(rgba(0, 0, 0, 0.3), transparent),
-  //   url(../assets/images/Forest-large.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), transparent),
+    url(../assets/images/Forest-large.jpg);
   background-size: cover;
   background-position: center;
   // padding: 0 8%;
