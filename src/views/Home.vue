@@ -1,7 +1,14 @@
 <template>
-  <div></div>
+  <div>
+    <TheHero></TheHero>
+  </div>
 </template>
 
 <script>
-export default {};
+import TheHero from '../components/TheHero'
+export default {
+  components: {
+    TheHero,
+  },
+};
 </script>
