@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import TheHero from '../components/TheHero'
+import TheHero from '../components/TheHero';
 export default {
   components: {
     TheHero,
